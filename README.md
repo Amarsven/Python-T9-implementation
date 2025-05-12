@@ -23,6 +23,3 @@ Save typed text or simulate sending.
 
 Arrow key or +/- support to cycle
 For better keyboard flow without # key.
-
-
-http://www.columbia.edu/~sq2144/MotionInput.pdf
