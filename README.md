@@ -3,7 +3,7 @@ Python T9 implementation
 
 A simple [T9](https://en.wikipedia.org/wiki/T9_(predictive_text)) implementation in python using bio pythons trie
 
-This is a basic T9 project that turns your numpad into T9 Nokia experience.
+This is a basic T9 project that turns your numpad into a T9 Nokia experience.
 It is not only retro but allows you to type with one hand. 
 This small project is still far from the proper experience as it used to function. 
 
